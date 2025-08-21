@@ -16,3 +16,9 @@ cat-breed{
   transform: transition 0.3s;
 }
 
+img{
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
