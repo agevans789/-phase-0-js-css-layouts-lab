@@ -22,3 +22,10 @@ img{
   border-radius: 8px;
 }
 
+h{
+  margin: 0.5em 0;
+}
+
+p{
+  margin: 0.5em 0 1em
+}
