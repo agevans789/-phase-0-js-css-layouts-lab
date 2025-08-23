@@ -19,7 +19,7 @@ cat-breed{
 }
 
 cat-breed:hover{
-  transform: scale;
+  transform: scale(1.05);
 }
 
 img{
